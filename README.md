@@ -3,7 +3,7 @@
 A pipelined processor which can encrypt and decrypt data. The project in written in VHDL.
 ## Introduction
 <img src="C:\Users\Yunrui\Downloads" alt="My cool logo"/>
-![Layer1](C:\Users\Yunrui\Downloads)
+![Layer1](![image](https://user-images.githubusercontent.com/53505797/118387160-09a73200-b660-11eb-84b3-eb9edef87640.png))
 
 
 ## Usage
