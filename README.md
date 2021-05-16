@@ -1,23 +1,16 @@
 # Double-layer-protection-pipelined-processor
-
 A pipelined processor which can encrypt and decrypt data. The project in written in VHDL.
+
 ## Introduction
+First layer of the encryption
 ![layer1](https://github.com/YunruiZhang/Double-layer-protection-pipelined-processor/blob/main/photos/layer1.png?raw=true)
+Second layer of the encryption
+![layer2](https://github.com/YunruiZhang/Double-layer-protection-pipelined-processor/blob/main/photos/layer2.png?raw=true)
+Over all design of the processor
+![design](https://github.com/YunruiZhang/Double-layer-protection-pipelined-processor/blob/main/photos/design.png?raw=true)
 
 ## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Use vivavdo 2020.2 to open this project archive
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
