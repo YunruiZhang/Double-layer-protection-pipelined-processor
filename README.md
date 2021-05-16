@@ -10,7 +10,7 @@ Second layer of the encryption
 
 ![layer2](https://github.com/YunruiZhang/Double-layer-protection-pipelined-processor/blob/main/photos/layer2.png?raw=true)
 
-Over all design of the processor
+Overall design of the processor
 
 ![design](https://github.com/YunruiZhang/Double-layer-protection-pipelined-processor/blob/main/photos/design.png?raw=true)
 
